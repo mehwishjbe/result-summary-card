@@ -42,7 +42,17 @@ p{
     font-size: 15px;
     padding-top: 30px ;
     padding-bottom: 30px ;
-    padding-left:80px;
+    padding-left:85px;
 
 }
+
+.circle-div{
+    height: 130px;
+    width: 130px;
+    background-color:  hsla(256, 72%, 46%, 1);
+    border-radius: 50%;
+    margin-left: 60px;
+
+}
+
 
