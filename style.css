@@ -156,7 +156,7 @@ span{
 
 
 
-/* REACTION DIV START */
+/* MEMORY DIV START */
 #memory-outer-div{
     background-color:  hsl(39, 70%, 78%);
 }
@@ -190,11 +190,11 @@ span{
     padding: 0px;
     font-size: 12px;
 }
-/* REACTION DIV END */
+/* MEMORY DIV END */
 
 
 
-/* REACTION DIV START */
+/* VERBAL DIV START */
 #verbal-outer-div{
     background-color:  hsl(166, 78%, 78%);;
 }
@@ -228,13 +228,14 @@ span{
     padding: 0px;
     font-size: 12px;
 }
-/* REACTION DIV END */
+/* VERBAL DIV END */
 
 
+/* VISUAL DIV START */
 
-#visual{
-    background-color: hsl(234, 84%, 75%);
-}
+/* VISUAL DIV END */
+
+
 
 button{
     padding-left: 25px;
