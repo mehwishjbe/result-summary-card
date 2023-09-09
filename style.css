@@ -302,4 +302,11 @@ button{
         height: 250px;
         width: 250px;
     }
+
+    .left-div{
+        background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+        height: 250px;
+        border-top-right-radius: 0px ;
+        border-top-left-radius: 0px;
+    }
 }
