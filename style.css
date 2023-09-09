@@ -108,3 +108,25 @@ span{
     padding: 30px 0px 20px 20px;
 }
 /* RIGHT DIV END */
+
+
+.modules{
+    height: 45px;
+    width: 200px;
+    margin: 10px 25px 10px 25px;
+    border-radius: 5px;
+}
+
+#reaction{
+    background-color: hsl(0, 75%, 84%);
+}
+#memory{
+    background-color: hsl(39, 86%, 78%);
+    
+}
+#verbal{
+    background-color: hsl(166, 78%, 78%);
+}
+#visual{
+    background-color: hsl(234, 84%, 75%);
+}
