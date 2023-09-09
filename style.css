@@ -309,4 +309,12 @@ button{
         border-top-right-radius: 0px ;
         border-top-left-radius: 0px;
     }
+
+    .result{
+        color: hsl(241, 100%, 89%);
+        font-size: 15px;
+        padding-top: 15px ;
+        padding-bottom: 10px ;
+        padding-left:85px;
+    }
 }
