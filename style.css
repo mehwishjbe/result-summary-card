@@ -216,6 +216,13 @@ span{
     padding-left: 10px;
     padding-top: 5px;
 }
+
+#marks-verbal{
+    color: hsl(224, 30%, 27%);
+    padding-left: 50px;
+    padding-top: 6px;
+    font-size: 12px;
+ }
 /* REACTION DIV END */
 
 
