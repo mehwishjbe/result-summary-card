@@ -231,8 +231,11 @@ span{
 /* VERBAL DIV END */
 
 
-/* VISUAL DIV START */
 
+/* VISUAL DIV START */
+#visual-outer-div{
+    background-color:  hsl(234, 84%, 75%);
+}
 /* VISUAL DIV END */
 
 
