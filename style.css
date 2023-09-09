@@ -8,6 +8,8 @@
 
 body{
     background-color: hsl(221, 100%, 96%);
+    font-family: 'Hanken Grotesk', sans-serif;
+
 
 }
 
@@ -37,7 +39,6 @@ body{
 }
 
 p{
-    font-family: 'Hanken Grotesk', sans-serif;
     color: hsl(241, 100%, 89%);
     font-size: 15px;
     padding-top: 30px ;
@@ -52,7 +53,18 @@ p{
     background-color:  hsla(256, 72%, 46%, 1);
     border-radius: 50%;
     margin-left: 60px;
+    display: block;
 
 }
 
+h3{
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    font-size: 50px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0;
+}
 
