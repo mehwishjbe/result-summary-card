@@ -261,6 +261,11 @@ span{
     padding-top: 6px;
     font-size: 12px;
  }
+
+ #tmarks-visual{
+    padding: 0px;
+    font-size: 12px;
+}
 /* VISUAL DIV END */
 
 
