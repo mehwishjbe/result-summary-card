@@ -171,6 +171,11 @@ span{
     padding-top: 4px;
 }
 
+#memory-text{
+    color: hsl(39, 100%, 56%);
+    padding-left: 10px;
+    padding-top: 5px;
+}
 /* REACTION DIV END */
 
 
