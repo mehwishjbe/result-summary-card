@@ -135,6 +135,12 @@ span{
     padding-top: 4px;
 }
 
+#reaction-text{
+    color:hsl(0, 100%, 67%) ;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
 
 /* REACTION DIV END */
 
