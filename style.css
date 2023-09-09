@@ -123,6 +123,13 @@ span{
     background-color: hsl(0, 75%, 84%);
 }
 
+.reaction-inner-div{
+    display: flex;
+    padding-top: 10px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
 
 /* REACTION DIV END */
 
