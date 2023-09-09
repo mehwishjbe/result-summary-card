@@ -210,6 +210,12 @@ span{
     padding-left: 10px;
     padding-top: 4px;
 }
+
+#verbal-text{
+    color: hsl(166, 100%, 37%);
+    padding-left: 10px;
+    padding-top: 5px;
+}
 /* REACTION DIV END */
 
 
