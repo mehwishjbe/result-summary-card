@@ -236,6 +236,13 @@ span{
 #visual-outer-div{
     background-color:  hsl(234, 84%, 75%);
 }
+
+.visual-inner-div{
+    display: flex;
+    padding-top: 10px;
+    font-size: 13px;
+    font-weight: bold;
+}
 /* VISUAL DIV END */
 
 
