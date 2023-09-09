@@ -130,3 +130,20 @@ span{
 #visual{
     background-color: hsl(234, 84%, 75%);
 }
+
+button{
+    padding-left: 25px;
+    background-color: hsl(224, 30%, 27%);
+    width: 200px;
+    border: none;
+    padding: 10px 60px;
+    color: hsl(0, 0%, 100%) ;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top: 10px;
+    text-align: center;
+    cursor: pointer;
+    margin: 25px 25px 10px 25px;
+
+}
