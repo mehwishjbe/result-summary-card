@@ -309,7 +309,6 @@ button{
         border-top-right-radius: 0px ;
         border-top-left-radius: 0px;
     }
-
     .result{
         color: hsl(241, 100%, 89%);
         font-size: 15px;
@@ -326,7 +325,6 @@ button{
         margin-left: 70px;
         display: block;
     }
-
     h3{
         text-align: center;
         color: hsl(0, 0%, 100%);
@@ -370,4 +368,5 @@ button{
         border-top-right-radius: 0px ;
         border-top-left-radius: 0px ;
     }
+
 }
