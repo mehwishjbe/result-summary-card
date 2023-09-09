@@ -317,4 +317,13 @@ button{
         padding-bottom: 10px ;
         padding-left:85px;
     }
+
+    .circle-div{
+        height: 100px;
+        width: 100px;
+        background-image: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+        border-radius: 50%;
+        margin-left: 70px;
+        display: block;
+    }
 }
