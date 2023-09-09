@@ -199,7 +199,12 @@ span{
     background-color:  hsl(166, 78%, 78%);;
 }
 
-
+.verbal-inner-div{
+    display: flex;
+    padding-top: 10px;
+    font-size: 13px;
+    font-weight: bold;
+}
 /* REACTION DIV END */
 
 
