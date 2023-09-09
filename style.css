@@ -154,6 +154,8 @@ span{
 }
 /* REACTION DIV END */
 
+
+
 /* REACTION DIV START */
 #memory-outer-div{
     background-color:  hsl(39, 70%, 78%);
@@ -191,9 +193,13 @@ span{
 /* REACTION DIV END */
 
 
-#verbal{
-    background-color: hsl(166, 78%, 78%);
-}
+
+/* REACTION DIV START */
+
+/* REACTION DIV END */
+
+
+
 #visual{
     background-color: hsl(234, 84%, 75%);
 }
