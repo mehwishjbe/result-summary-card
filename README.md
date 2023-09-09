@@ -2,6 +2,12 @@
 
 This project is a web page implementation of the "Result Summary Component" challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). It displays a summary of test results along with some statistics and visual icons.
 
+#### Desktop Design
+![NFT Card Preview](./images/desktop-version.JPG)
+
+#### Mobile Design
+![NFT Card Preview](./images/mobile-version.JPG)
+
 You can access the live demo of this project here: [Result Summary Card Demo](https://mehwishjbe.github.io/result-summary-card/)
 
 ## Table of Contents
