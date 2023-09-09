@@ -68,3 +68,10 @@ h3{
     margin: 0;
 }
 
+span{
+    text-align: center;
+    color: hsl(240, 15%, 61%);
+    font-size: 14px;
+    padding-left: 35%;
+    font-weight: bold;
+}
