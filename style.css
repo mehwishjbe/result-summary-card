@@ -362,4 +362,12 @@ button{
         color: hsl(240, 27%, 77%);
         font-weight: bold;
     }
+
+    .right-div{
+        background-color: hsl(0, 0%, 100%);
+        height: 400px;
+        width: 250px;
+        border-top-right-radius: 0px ;
+        border-top-left-radius: 0px ;
+    }
 }
