@@ -10,7 +10,7 @@
 <body>
     <div class="back-div">
         <div class="left-div">
-            <p>Your Result</p>
+            <p class="result">Your Result</p>
 
             <div class="circle-div">
                 <h3>76 </h3>
@@ -25,9 +25,15 @@
         
         <div class="right-div">
             <p id="summary">Summary</p>
-            <div id="reaction" class="modules">
 
+            <div id="reaction-outer-div" class="modules">
+                <div class="reaction-inner-div">
+                    <div><img id="img-reaction" src="./images/icon-reaction.png" alt=""></div>
+                    <div><p id="reaction-text">Reaction</p></div>
+                    <div><p id="marks">80  <span id="tmarks"> / 100</span></p></div>
+                </div>
             </div>
+            
             <div id="memory" class="modules"></div>
             <div id="verbal" class="modules"></div>
             <div id="visual" class="modules"></div>

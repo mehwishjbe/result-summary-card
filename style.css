@@ -32,7 +32,7 @@ body{
     border-radius: 20px;
 }
 
-p{
+.result{
     color: hsl(241, 100%, 89%);
     font-size: 15px;
     padding-top: 30px ;
@@ -117,9 +117,16 @@ span{
     border-radius: 5px;
 }
 
-#reaction{
+
+/* REACTION DIV START */
+#reaction-outer-div{
     background-color: hsl(0, 75%, 84%);
 }
+
+
+/* REACTION DIV END */
+
+
 #memory{
     background-color: hsl(39, 86%, 78%);
     
@@ -145,5 +152,4 @@ button{
     text-align: center;
     cursor: pointer;
     margin: 25px 25px 10px 25px;
-
 }
