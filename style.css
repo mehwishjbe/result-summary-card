@@ -9,24 +9,30 @@
 body{
     background-color: hsl(221, 100%, 96%);
     font-family: 'Hanken Grotesk', sans-serif;
-
-
 }
 
 .back-div{
-    background-color: hsl(0, 0%, 100%);
     height: 400px;
-    width: 500px;
+    width: 600px;
     margin: auto;
     margin-top: 85px;
-    border-radius: 20px;
     display: flex;
+}
+
+.white-div{
+    background-color: hsl(0, 0%, 100%);
+    height: 400px;
+    width: 250px;
+    display: block;
+    border-top-left-radius:20px;
+    border-bottom-left-radius:20px;
 }
 
 
 /* LEFT DIV START */
 .left-div{
     background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    background-color: hsl(0, 0%, 100%);
     height: 400px;
     width: 250px;
     border-radius: 20px;
@@ -38,7 +44,6 @@ body{
     padding-top: 30px ;
     padding-bottom: 30px ;
     padding-left:85px;
-
 }
 
 .circle-div{
@@ -48,7 +53,6 @@ body{
     border-radius: 50%;
     margin-left: 60px;
     display: block;
-
 }
 
 h3{
@@ -76,7 +80,6 @@ span{
     padding: 20px;
     font-size: 20px;
     font-weight: lighter;
-
 }
 
 .remarks{
@@ -85,7 +88,6 @@ span{
     font-size: 12px;
     color: hsl(240, 27%, 77%);
     font-weight: bold;
-
 }
 /* LEFT DIV END */
 
@@ -219,7 +221,7 @@ span{
 
 #marks-verbal{
     color: hsl(224, 30%, 27%);
-    padding-left: 50px;
+    padding-left: 60px;
     padding-top: 6px;
     font-size: 12px;
  }
@@ -250,14 +252,14 @@ span{
 }
 
 #visual-text{
-    color: hsl(166, 100%, 37%);
+    color: hsl(234, 85%, 45%);
     padding-left: 10px;
     padding-top: 5px;
 }
 
 #marks-visual{
     color: hsl(224, 30%, 27%);
-    padding-left: 50px;
+    padding-left: 60px;
     padding-top: 6px;
     font-size: 12px;
  }
@@ -267,7 +269,6 @@ span{
     font-size: 12px;
 }
 /* VISUAL DIV END */
-
 
 
 button{
