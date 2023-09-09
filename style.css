@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&family=Fasthand&family=Fraunces:opsz,wght@9..144,600&family=Hanken+Grotesk:wght@500;700;800&family=Red+Hat+Display:wght@500;700;900&display=swap');
+
 *{
     padding: 0;
     margin: 0;
@@ -32,5 +34,15 @@ body{
     width: 250px;
     border-top-right-radius:20px;
     border-bottom-right-radius:20px;
+}
+
+p{
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: hsl(241, 100%, 89%);
+    font-size: 15px;
+    padding-top: 30px ;
+    padding-bottom: 30px ;
+    padding-left:80px;
+
 }
 
