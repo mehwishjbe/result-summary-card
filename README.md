@@ -1,6 +1,6 @@
 # Result Summary Component
 
-This project is a web page implementation of the "Result Summary Component" challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). It displays a summary of test results along with some statistics and visual icons.
+This project is a web page implementation of the "Result Summary Component" challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). 
 
 #### Desktop Design
 ![NFT Card Preview](./images/desktop-version.JPG)
